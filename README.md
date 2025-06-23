@@ -9,7 +9,6 @@ The project is built on the [Minimal UI Kit] template and deployed on Vercel for
     <img alt="Live Demo" src="https://img.shields.io/badge/Live-Demo-green?logo=vercel&logoColor=white">
   </a>
   <img alt="Node" src="https://img.shields.io/badge/Node-16%20%7C%2018-blue?logo=node.js">
-  <img alt="License" src="https://img.shields.io/badge/License-Contact%20Repo%20Owner-lightgrey">
 </p>
 
 ---
